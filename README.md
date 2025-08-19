@@ -6,7 +6,7 @@ Welcome to Sonare app! This app will help people talk. Being able to communicate
 
 **Created by Olof Mjöberg**
 
-*Created on: December 19, 2024 at 2:30 PM*
+*Created on: January 19, 2025 at 2:30 PM*
 
 ## About
 
